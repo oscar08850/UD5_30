@@ -12,7 +12,7 @@ Ejercicio 5: https://oscar08850.github.io/UD5_30/EJ05/
 
 Ejercicio 6: https://oscar08850.github.io/UD5_30/EJ06/
 
-Ejercicio 7: https://oscar08850.github.io/UD5_30/EJ07/ç
+Ejercicio 7: https://oscar08850.github.io/UD5_30/EJ07/
 
 Ejercicio 8: https://oscar08850.github.io/UD5_30/EJ08/
 
